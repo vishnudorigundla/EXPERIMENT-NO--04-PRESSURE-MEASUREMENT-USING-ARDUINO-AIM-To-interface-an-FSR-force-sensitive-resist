@@ -3,7 +3,7 @@
 
 ## AIM: 
 
-To intetface an FSR(force sensitive resistor) and measure the force appiled indicate the change in force applied using LEDs.  
+To interface an FSR(force sensitive resistor) and measure the force appiled indicate the change in force applied using LEDs.  
  
 ### COMPONENTS REQUIRED:
 1.	FSR  (force sensitive resistor)
@@ -161,9 +161,6 @@ void loop()
  
  
 
-![image](https://user-images.githubusercontent.com/36288975/163533136-5f8d00f2-8456-4d46-b243-d94d45f83eee.png)
-
-### TABLE -02 OUTPUT VOLTAGES AND CHANGE IN RESISTANCES
 
 
 
@@ -182,6 +179,6 @@ void loop()
 
 
 
-# RESULTS :
+# RESULT :
 
 Thus the inferfacing using FSR(force sensitive sensor )is simultated in tinker CAD.
