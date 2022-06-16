@@ -2,6 +2,7 @@
 
 
 ## AIM: 
+
 To intetface an FSR(force sensitive resistor) and measure the force appiled indicate the change in force applied using LEDs.  
  
 ### COMPONENTS REQUIRED:
@@ -76,8 +77,10 @@ The easiest way to measure a resistive sensor is to connect one end to power and
 
 
 ### PROGRAM :
+```
 Developed By:  D.vishnu vardhan reddy
 Reference number : 212221230023
+```
 ```
 //Define pins:
 #define fsrpin A0
@@ -166,7 +169,8 @@ void loop()
 
 
 
-#OUTPUT :
+# OUTPUT :
+
 ![PRESSUR](https://user-images.githubusercontent.com/94175324/174071521-de837167-abf3-4d99-8276-f80358312032.png)
 
 
@@ -178,5 +182,6 @@ void loop()
 
 
 
-#RESULTS :
+# RESULTS :
+
 Thus the inferfacing using FSR(force sensitive sensor )is simultated in tinker CAD.
